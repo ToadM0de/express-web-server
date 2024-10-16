@@ -16,8 +16,8 @@ let myChart = new Chart(canvasRef, {
       {
         label: "Candy Sold",
         data: [5, 12, 1],
-        // backgroundColor: ["#000000", "#666666", "#2534ef"],
-        backgroundColor: "#53ed2440",
+        // backgroundColor: ["#6dbfb8", "#be95be", "#b3be62"],
+        backgroundColor: "#71a3c1",
       },
     ],
   },
@@ -37,7 +37,7 @@ const allCharts = {
           {
             label: "Candy Sold",
             data: [5, 12, 1],
-            backgroundColor: "#53ed2440",
+            backgroundColor: "#71a3c1",
           },
         ],
       },
